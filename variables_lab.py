@@ -11,3 +11,4 @@ print("power:", power)
 print (type(work))
 
 
+#its tuesday!!
